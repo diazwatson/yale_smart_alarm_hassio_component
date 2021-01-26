@@ -1,0 +1,1 @@
+# yale_smart_alarm_hassio_component
